@@ -40,4 +40,4 @@ def MullerMethod(x0, x1, x2, f, Expected_Error=None, iteration_number=0):  # f i
 
 
 if __name__ == "__main__":
-    MullerMethod(x0, x1, x2, E, f)
+    MullerMethod(x0, x1, x2, f, E)
