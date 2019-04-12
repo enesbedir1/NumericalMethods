@@ -1,6 +1,6 @@
 import math
 
-def f(x):
+def f(x):  # write here your given function
     pass
 
 def MullerMethod(x0, x1, x2, f, Expected_Error=None, iteration_number=0):  # f is your function
