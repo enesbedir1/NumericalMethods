@@ -2,6 +2,7 @@ import numpy as np
 import math
 
 """
+my equations:
 4 * x1 +x2 - x3 +x4 = -2
 x1 + 4 * x2 - x3 - x4 = -1
 -1 * x1 - x2 + 5 * x3 + x4 = 0
